@@ -1,0 +1,38 @@
+.Mov-Wraper {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  width: 230px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.Poster-Wraper {
+  border-radius: 5px;
+}
+
+.Text-Wraper {
+  display: flex;
+  font-size: small;
+}
+
+.Title-Wraper {
+  font-weight: 800;
+  color: darkred;
+}
+
+.Button-Wraper {
+  background-color: blueviolet;
+
+  border-radius: 50%;
+  width: 40%;
+  height: 150%;
+}
+
+.Text-butt-Wraper {
+  display: flex;
+  justify-content: space-between;
+}

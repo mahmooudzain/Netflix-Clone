@@ -1,0 +1,68 @@
+
+
+ [ 
+        {
+            "title": "Spider-Man",
+            "genre_ids": [
+            28,
+            12,
+            878
+            ],
+            "original_language": "en",
+            "original_title": "Spider-Man 1",
+            "poster_path": "https://external-preview.redd.it/what-if-spider-man-2002-was-an-mcu-movie-an-original-study-v0-PwoMgf5W8GUe3CSYMWv1UTjlBZtv12lRGPcfvAkx4uI.jpg?auto=webp&s=ab72d5d14a6bccf8812827c69fe4f4767419b989",
+            "video": false,
+            "vote_average": 8.4,
+            "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "release_date": "2021-12-15",
+            "vote_count": 3160,
+            "id": 634649,
+            "adult": false,
+            "backdrop_path": "/home/anas/netflix-clone/src/component/assissit/sm 1.jpg",
+            "popularity": 10039.54,
+            "media_type": "movie"
+        },
+        {
+            "title": "Spider-Man 2",
+            "genre_ids": [
+            28,
+            12,
+            878
+            ],
+            "original_language": "en",
+            "original_title": "Spider-Man 2",
+            "poster_path": "https://m.media-amazon.com/images/I/71mAD3kFlcL._AC_SL1111_.jpg",
+            "video": false,
+            "vote_average": 8.4,
+            "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "release_date": "2021-12-15",
+            "vote_count": 3160,
+            "id": 634649,
+            "adult": false,
+            "backdrop_path": "https://static.wikia.nocookie.net/spidermanmoviesinfo/images/6/64/Spider-Man_3_%282007%29_Movie_Poster_2.jpg/revision/latest?cb=20170518112418",
+            "popularity": 10039.54,
+            "media_type": "movie"
+        },
+        {
+            "title": "Spider-Man 3",
+            "genre_ids": [
+            28,
+            12,
+            878
+            ],
+            "original_language": "en",
+            "original_title": "https://xl.movieposterdb.com/11_03/2007/413300/xl_413300_42627cf6.jpg?v=2021-10-26%2015:08:55",
+            "poster_path": "https://xl.movieposterdb.com/11_03/2007/413300/xl_413300_42627cf6.jpg?v=2021-10-26%2015:08:55",
+            "video": false,
+            "vote_average": 8.4,
+            "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "release_date": "2021-12-15",
+            "vote_count": 3160,
+            "id": 634649,
+            "adult": false,
+            "backdrop_path": "/1Rr5SrvHxMXHu5RjKpaMba8VTzi.jpg",
+            "popularity": 10039.54,
+            "media_type": "movie"
+        }
+    ]
+    
