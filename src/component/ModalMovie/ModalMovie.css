@@ -7,6 +7,7 @@
   height: 100%;
   overflow: auto;
   background-color: rgba(0, 0, 0, 0.4);
+  margin-bottom: auto;
 }
 
 .modal-content {
@@ -15,8 +16,9 @@
   padding: 20px;
   padding-top: 0px;
   border: 1px solid #888;
-  width: 40%;
+  width: 32%;
   display: flex;
+  gap: 8px;
   flex-direction: column;
   align-items: center;
 }
@@ -38,14 +40,25 @@
 }
 
 .Modal-Poster {
-  width: 200px;
+  width: 250px;
 }
 
 .Modal-Title {
-  font-size: 30px;
+  font-size: 20px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
 }
 
 .Modal-Overview {
-  font-size: 12px;
+  font-size: 15px;
+}
+.Input-Wraper {
+  display: flex;
+  gap: 20px;
+}
+.Butt-Wraper {
+  border-radius: 5px;
+  background-color: blue;
+  color: red;
+  width: 80px;
 }

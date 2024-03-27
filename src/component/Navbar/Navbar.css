@@ -1,0 +1,15 @@
+.Nav-Wraper {
+  display: flex;
+  gap: 30px;
+  background-color: black;
+}
+
+.H2-Wraper {
+  color: brown;
+}
+.Link-Wraper {
+  display: flex;
+  gap: 20px;
+  align-content: center;
+  flex-wrap: wrap;
+}

@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from "react";
 import MovieList from "../MovieList/MovieList";
+import axios from "axios";
 
 function Home(props) {
   const [movies, setMovies] = useState([]);
+
   useEffect(() => {
-    fetch(
-      "https://api.themoviedb.org/3/trending/all/week?api_key=37ddc7081e348bf246a42f3be2b3dfd0&language=en-US"
-    )
-      .then((res) => res.json())
-      .then((data) => setMovies(data.results));
+    axios.get("http://192.168.1.35:3000/products").then((res) => {
+      setMovies(res.data);
+    });
   }, []);
 
   return (
